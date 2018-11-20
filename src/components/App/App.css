@@ -1,0 +1,25 @@
+.article {
+  margin: 35px auto;
+  width: 800px;
+  border-radius: 3px;
+  font-family: 'Lato', 'sans-serif';
+
+  padding: 5px 20px;
+  border: 1px solid #e6e6e6;
+}
+
+.article_title {
+  font-size: 20px;
+  color: #666;
+}
+
+.article_body {
+  font-size: 18px;
+  color: #aaa;
+}
+
+.article_author {
+  font-size: 14px;
+  color: #ffbf00;
+  text-align: right;
+}
